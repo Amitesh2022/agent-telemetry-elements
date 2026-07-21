@@ -1,0 +1,6 @@
+com/amitesh/portfolio/agenttelemetryelements/api/PortfolioController.class
+com/amitesh/portfolio/agenttelemetryelements/PortfolioApplication.class
+com/amitesh/portfolio/agenttelemetryelements/service/PortfolioService.class
+com/amitesh/portfolio/agenttelemetryelements/domain/PortfolioRecord.class
+com/amitesh/portfolio/agenttelemetryelements/api/ApiExceptionHandler.class
+com/amitesh/portfolio/agenttelemetryelements/api/CreateRecordRequest.class
